@@ -9,16 +9,20 @@ body, html{
   background-color: #d1cfb1;
   color: #485e74;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
 }
 
-.navbar-clr{
-  background-color: dimgray;
-  color: rgb(234, 217, 194);
-}
-.toggler-clr{
-  background-color: black;
-  color: bisque;
+/* .navbar-clr{
+  background-color: rgb(104, 106, 106);
+  color: rgb(194, 215, 234);
+} */
+
+/* .navbar-brand-clr{
+  color: tomato;
+} */
+
+.header-bg-clr{
+  /* background-color: rgb(110, 93, 54);    b */
+  background-color: rgb(8, 101, 134);  
 }
 
 .navbar-clr .navbar-brand{
